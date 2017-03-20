@@ -2,3 +2,10 @@
 ./data/config/config.ini.php
 .gitignore
 ./git
+./admin/config/config.ini.php
+./data/sql_back/*
+./data/sql_back/
+./data/config/
+./data/config/*
+./admin/config/*
+./admin/config/

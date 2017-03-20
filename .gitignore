@@ -1,1 +1,4 @@
 .user.ini
+./data/config/config.ini.php
+.gitignore
+./git
